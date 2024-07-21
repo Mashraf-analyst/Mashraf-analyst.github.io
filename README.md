@@ -3,8 +3,7 @@
 #### Technical Skills : SQL, Tableau, PowerBI, Microsoft Office (Excel, PowerPoint, Word, Outlook, Github)
 
 ### Education
-- Computer Science, Bachelor's Degree | Universiti Selangor (Nov 2022)
-- IT, Foundation | Universiti Selangor (Oct 2019) 
+- B.S., Computer Science, Universiti Selangor 
 
 ### Work Experience
 **Process Analyst @ Genpact Malaysia Sdn Bhd**
