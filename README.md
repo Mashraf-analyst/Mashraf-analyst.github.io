@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills : SQL, Tableau, PowerBI, Microsoft Office (Excel, PowerPoint, Word, Outlook)
+#### Technical Skills : SQL, Tableau, PowerBI, Microsoft Office (Excel, PowerPoint, Word, Outlook, Github)
 
 ## Education
 - Computer Science, Bachelor's Degree | Universiti Selangor (Nov 2022)
