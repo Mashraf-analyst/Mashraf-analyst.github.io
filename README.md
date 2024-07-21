@@ -5,6 +5,9 @@
 ### Education
 - B.S., Computer Science, Universiti Selangor (Nov 2022)
 
+### Certificate
+- SQL (Basic), HackerRank
+
 ### Work Experience
 **Process Analyst @ Genpact Malaysia Sdn Bhd**
 - Gather and analyzed data within the workflow based on the company's policy.
