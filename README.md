@@ -7,7 +7,7 @@ Computer Science, Bachelor's Degree | Universiti Selangor (Nov 2022)
 IT, Foundation | Universiti Selangor (Oct 2019) 
 
 ### Work Experience
-**Process Analyst @ Genpact Malaysia Sdn Bhd**
+Process Analyst @ Genpact Malaysia Sdn Bhd
 - Gather and analyzed data within the workflow based on the company's policy.
 - Provided support to increase team members' performance.
 
