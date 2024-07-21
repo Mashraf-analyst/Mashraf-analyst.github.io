@@ -8,7 +8,7 @@
 ### Certificate
 - SQL (Basic), HackerRank
 
-### Work Experience
+<br>### Work Experience
 **Process Analyst @ Genpact Malaysia Sdn Bhd**
 - Gather and analyzed data within the workflow based on the company's policy.
 - Provided support to increase team members' performance.
