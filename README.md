@@ -11,13 +11,13 @@
 - Provided support to increase team members' performance.
 
 **Data Analyst Protege @ Sime Darby Plantation Sdn Bhd**
-- Performed data cleaning and analysis daily with Microsoft Excel.
-- Data visualisation using PowerBI.
+- Performed data cleaning and analysis daily with **Microsoft Excel**.
+- Data visualisation using **PowerBI**.
 - Collaboration between team members to further increase accuracy.
 
 **Administrative Executive @ Coway Malaysia Sdn Bhd**
 - Data extraction from ERP.
-- Data cleaning and reporting with Microsoft Excel.
+- Data cleaning and reporting with **Microsoft Excel**.
 - Provided insight and recommendations to increase performance.
 - Planned and managed logistics for product distribution throughout Malaysia.
 - System enhancements.
