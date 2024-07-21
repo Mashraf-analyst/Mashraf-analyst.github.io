@@ -1,5 +1,7 @@
 # Data Analyst
 
+#### Technical Skills : SQL, Tableau, PowerBI, Microsoft Office (Excel, PowerPoint, Word, Outlook)
+
 ### Education
 Computer Science, Bachelor's Degree
 
