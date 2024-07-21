@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills : SQL, Tableau, PowerBI, Microsoft Office (Excel, PowerPoint, Word, Outlook, Github)
+#### Technical Skills : SQL, Tableau, PowerBI, Github, Microsoft Office (Excel, PowerPoint, Word, Outlook).
 
 ### Certificate
 - SQL (Basic), HackerRank
